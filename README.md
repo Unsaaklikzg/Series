@@ -1,0 +1,2 @@
+# Series
+Aplicación gráfica series 
